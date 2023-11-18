@@ -10,6 +10,7 @@ Criar 3 telas, o objetivo de cada uma é:
 - <b>Tela de Consulta do Técnico:</b> Nessa tela deverá ser montada uma tabela exibindo R.A, PROBLEMA, SALA, DESCRICAO, HORA DE CADASTRO e um botão para RESOLVER o chamado, assim que resolvido deve sumir da tela de visualização (NÃO É PARA APAGAR, apenas para mudar o status)
   
 - <b>Tela de Consulta por R.A:</b> Nessa tela deverá ter um campo para digitar o R.A, quando pesquisarmos alimentar uma table com R.A, PROBLEMA, SALA, DESCRIÇÃO, HORA CADASTRO e HORA RESOLVIDO (se estiver resolvido) e RESOLVIDO (mostrar "resolvido" ou "não resolvido")
+
 A entrega deverá ser: Código HTML + PHP + MYSQL (arquivo de criação do banco de dados)
 
 Critérios de aceite para a tela de Consulta por RA:
